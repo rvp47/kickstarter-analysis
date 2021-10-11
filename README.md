@@ -30,7 +30,7 @@ A challenge encountered was not using the proper formulas to determine the outco
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-As discussed in a previous section, campaigns for plays launched in May were more successful than those launched in any other month. The month of December experienced  the least number of successful campaign outcomes for plays. 
+  As discussed in a previous section, campaigns for plays launched in May were more successful than those launched in any other month. The month of December experienced the least number of successful campaign outcomes for plays. 
 
 - What can you conclude about the Outcomes based on Goals?
 
