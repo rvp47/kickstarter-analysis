@@ -38,4 +38,6 @@ A challenge encountered was not using the proper formulas to determine the outco
 
 - What are some limitations of this dataset?
 
+  Based on this dataset, it cannot be determined how many individuals pledged to each campaign. This can make a big difference in understanding why some campaigns had such high or low goal amounts and such high or low pledge amounts. Some successful campaigns required less money to reach their goals whereas many failed campaigns had some of the highest funding goals. Another limitation was that outliers were not identified and eliminated since they may not have been representative of the data as a whole and for the purposes of our analysis. Lastly, the funding goals and pledges do not indicate what the money would go towards, like infrastructure building, marketing, or payroll. This breakdown would allow for us to analyze the data on a more granular level if we wanted.
+
 - What are some other possible tables and/or graphs that we could create?
