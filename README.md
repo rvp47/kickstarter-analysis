@@ -16,6 +16,10 @@ To discover any trends in theater outcomes based on launch date, a pivot table w
 
 ### Analysis of Outcomes Based on Goals
 
+The following analysis of outcomes based on funding goals provides Louise with a visual representation of successful, failed, and canceled plays based on the funding goal amount. The goals indicate how much money each campaign need to succeed, and the outcomes convey whether the campaign met its goal. For the purposes of this analysis, the funding goals were grouped into dollar-amount ranges. The COUNTIFS function was used to determine the number successful, failed, and canceled plays. For example, the formula used to find the number of successful campaigns with funding goals of less than $1,000 was =COUNTIFS(Kickstarter!$D:$D,"<1000",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays"). In the Kickstarter data sheet, column D consisted of the goals, column F was the outcome, and column R contained the subcategory. After filtering to only show the “plays” subcategory and finding the number of each outcome, total projects for each goal-amount range were calculated. The final step consisted of calculating the percentages of each outcome type by goal-amount range and creating a line chart based on the resulting percentages. 
+
+This analysis revealed that most successful campaigns had goals less than $1,000, between $35,000 to $39,999, and between 40,000 to $44,999. Most failed campaigns had goals between $45,000 to $49,999.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90656004/136834734-eca41551-237e-4db0-9b69-70f9184d4e16.png)
 
 ### Challenges and Difficulties Encountered
@@ -26,8 +30,7 @@ A challenge encountered was not using the proper formulas to determine the outco
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-    Campaigns for plays launched in May were more successful than those launched in any other month.
-    The month of December experienced the least number of successful campaign outcomes for plays. 
+        As discussed in a previous section, campaigns for plays launched in May were more successful than those launched in any other month. The month of December experienced  the least number of successful campaign outcomes for plays. 
 
 - What can you conclude about the Outcomes based on Goals?
 
