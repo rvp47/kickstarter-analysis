@@ -34,6 +34,8 @@ A challenge encountered was not using the proper formulas to determine the outco
 
 - What can you conclude about the Outcomes based on Goals?
 
+  Plays with higher funding goals (greater than $45,000) were less successful than those with lower funding goals.
+
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
