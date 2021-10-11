@@ -20,6 +20,8 @@ To discover any trends in theater outcomes based on launch date, a pivot table w
 
 ### Challenges and Difficulties Encountered
 
+A challenge encountered was not using the proper formulas to determine the outcomes based on goals. Initially, the data was filtered in the Kickstarter tab of the Excel workbook. The outcome column was filtered to only show one outcome type at a time and to only show plays in the subcategory column. The resulting outcome percentages for each goal-amount range did not make mathematical sense. It became clear that the formulas needed to reflect the filters for the outcome types and the plays subcategory instead of relying on the filter tool. Once the filters for outcome and subcategory were included in the formulas, the data was able to be properly customized to reveal the number of successful, failed, and canceled outcomes by goal range as well as the percentage of each outcome by goal range. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
